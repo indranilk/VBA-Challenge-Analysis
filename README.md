@@ -11,7 +11,7 @@ In 2017 the code ran in about 0.66 seconds. All tickers except TERP had positive
 
 ![image](https://user-images.githubusercontent.com/8925001/118417271-28a9c200-b668-11eb-8fd2-d2c3c607cfdc.png)
 
-In 2018 the code ran in about 0.60 seconds. ENPH and RUN were the only stocks with positive returns. The remaining stocks had negative returns. The tickers AY, SEDG, TERP, and VSLR were in the low range of -10 to 0 %. DW and JKS had really low returns of less than -60%. 
+In 2018 the code ran in about 0.60 seconds. ENPH and RUN were the only stocks with positive returns. The remaining stocks had negative returns. The tickers AY, SEDG, TERP, and VSLR were in the low range of -10 to 0 %. DQ and JKS had really low returns of less than -60%. 
 
 Summary:
 
