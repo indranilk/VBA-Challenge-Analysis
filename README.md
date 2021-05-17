@@ -7,7 +7,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/8925001/118417259-13349800-b668-11eb-9892-7a01abdac8b5.png)
 
-In 2017 the code ran in about 0.66 seconds. All tickers except TERP had positive returns. There were four tickers (DQ, ENPH, FSLR, SEDG) with over 100% returns. Tickers AY and RUN were in the low range of 5-10%. TEPR had returns of -7.2%. 
+In 2017 the code ran in about 1.05 seconds. All tickers except TERP had positive returns. There were four tickers (DQ, ENPH, FSLR, SEDG) with over 100% returns. Tickers AY and RUN were in the low range of 5-10%. TEPR had returns of -7.2%. 
 
 ![image](https://user-images.githubusercontent.com/8925001/118417271-28a9c200-b668-11eb-8fd2-d2c3c607cfdc.png)
 
